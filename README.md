@@ -2,7 +2,7 @@
 
 **并且会在玩家动作栏（快捷栏上方）显示激活幸运方块的倒计时。**
 
-如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/anvil-falling/issues/new) 反馈
+如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/auto-lucky-block/issues/new/choose) 反馈
 
 如果无法访问，可点击 [这里](https://steampp.net/) 下载加速器
 
